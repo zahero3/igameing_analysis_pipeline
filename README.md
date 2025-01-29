@@ -1,4 +1,4 @@
-# igameing_analysis_pipeline
+# igaming_analysis_pipeline
 🎰 iGaming Data Analysis Pipeline using Apache Airflow
 
 **Overview**
